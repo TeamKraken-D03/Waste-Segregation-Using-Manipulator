@@ -15,7 +15,7 @@ This project automates the waste segregation process using a **uFactory Lite 6**
 
 ---
 
-## 🤖 Hardware & Tools Used
+## Hardware & Tools Used
 
 - **uFactory Lite 6** robotic arm
 - External RGB camera
@@ -26,7 +26,7 @@ This project automates the waste segregation process using a **uFactory Lite 6**
 
 ---
 
-## 📌 Project Workflow
+## Project Workflow
 
 1. **Capture Workspace Image**
    - An RGB camera captures the top-down view of the workspace.
