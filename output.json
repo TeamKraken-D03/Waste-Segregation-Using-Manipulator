@@ -1,0 +1,56 @@
+[
+    {
+        "box_2d": [
+            281,
+            407,
+            333,
+            448
+        ],
+        "label": "red cube"
+    },
+    {
+        "box_2d": [
+            441,
+            501,
+            489,
+            537
+        ],
+        "label": "green cube near robot"
+    },
+    {
+        "box_2d": [
+            239,
+            362,
+            293,
+            401
+        ],
+        "label": "yellow cube near cable"
+    },
+    {
+        "box_2d": [
+            452,
+            448,
+            508,
+            489
+        ],
+        "label": "green cube"
+    },
+    {
+        "box_2d": [
+            554,
+            445,
+            612,
+            489
+        ],
+        "label": "yellow cube near green cube"
+    },
+    {
+        "box_2d": [
+            506,
+            357,
+            560,
+            400
+        ],
+        "label": "yellow cube"
+    }
+]
