@@ -1,0 +1,203 @@
+[
+    {
+      "label": "plastic bottle",
+      "description": "Common beverage container made from PET plastic.",
+      "material": "PET plastic",
+      "recyclable": true,
+      "disposal_method": "Rinse and recycle with plastics.",
+      "category": "plastic"
+    },
+    {
+      "label": "aluminum can",
+      "description": "Lightweight can used for drinks, made of aluminum.",
+      "material": "Aluminum",
+      "recyclable": true,
+      "disposal_method": "Rinse and place in metal recycling.",
+      "category": "metal"
+    },
+    {
+      "label": "glass jar",
+      "description": "Reusable or recyclable container made of glass.",
+      "material": "Glass",
+      "recyclable": true,
+      "disposal_method": "Rinse and recycle with glass items.",
+      "category": "glass"
+    },
+    {
+      "label": "cardboard box",
+      "description": "Used for packaging and shipping, made from paper fibers.",
+      "material": "Cardboard",
+      "recyclable": true,
+      "disposal_method": "Flatten and recycle with paper/cardboard.",
+      "category": "paper"
+    },
+    {
+      "label": "pizza box (greasy)",
+      "description": "Cardboard box with food grease, contaminates recycling.",
+      "material": "Greasy cardboard",
+      "recyclable": false,
+      "disposal_method": "Compost if possible or dispose in trash.",
+      "category": "paper"
+    },
+    {
+      "label": "plastic bag",
+      "description": "Flexible plastic film often used for carrying items.",
+      "material": "LDPE plastic",
+      "recyclable": false,
+      "disposal_method": "Dispose in trash or recycle at special drop-off.",
+      "category": "plastic"
+    },
+    {
+      "label": "styrofoam container",
+      "description": "Foam food container made of polystyrene.",
+      "material": "Polystyrene",
+      "recyclable": false,
+      "disposal_method": "Place in general waste.",
+      "category": "plastic"
+    },
+    {
+      "label": "tin can",
+      "description": "Food storage can made of steel or tin-plated metal.",
+      "material": "Steel",
+      "recyclable": true,
+      "disposal_method": "Rinse and recycle with metals.",
+      "category": "metal"
+    },
+    {
+      "label": "milk carton",
+      "description": "Liquid food container made from paper with plastic lining.",
+      "material": "Paper + plastic",
+      "recyclable": true,
+      "disposal_method": "Rinse and recycle in mixed recycling.",
+      "category": "composite"
+    },
+    {
+      "label": "juice box",
+      "description": "Multi-layered carton for beverages, often with foil lining.",
+      "material": "Paper + plastic + aluminum",
+      "recyclable": true,
+      "disposal_method": "Recycle in beverage carton stream if accepted.",
+      "category": "composite"
+    },
+    {
+      "label": "paper towel",
+      "description": "Soft absorbent paper, often soiled after use.",
+      "material": "Paper",
+      "recyclable": false,
+      "disposal_method": "Compost if unused or dispose in trash.",
+      "category": "paper"
+    },
+    {
+      "label": "newspaper",
+      "description": "Printed paper publication, easily recyclable.",
+      "material": "Paper",
+      "recyclable": true,
+      "disposal_method": "Place in paper recycling bin.",
+      "category": "paper"
+    },
+    {
+      "label": "plastic cutlery",
+      "description": "Single-use forks, spoons, knives made of plastic.",
+      "material": "Polystyrene",
+      "recyclable": false,
+      "disposal_method": "Dispose in trash.",
+      "category": "plastic"
+    },
+    {
+      "label": "chip bag",
+      "description": "Flexible packaging made of plastic and aluminum layers.",
+      "material": "Plastic + foil",
+      "recyclable": false,
+      "disposal_method": "Dispose in trash.",
+      "category": "composite"
+    },
+    {
+      "label": "batteries",
+      "description": "Power source for electronics, contains hazardous materials.",
+      "material": "Lithium-ion / Alkaline",
+      "recyclable": false,
+      "disposal_method": "Take to a hazardous waste or e-waste center.",
+      "category": "e-waste"
+    },
+    {
+      "label": "light bulb",
+      "description": "Illumination device with glass and metal parts.",
+      "material": "Glass + metal",
+      "recyclable": false,
+      "disposal_method": "Special drop-off for CFL/LEDs or dispose in trash.",
+      "category": "e-waste"
+    },
+    {
+      "label": "e-waste (old phone)",
+      "description": "Electronic device containing various reusable metals.",
+      "material": "Mixed electronics",
+      "recyclable": false,
+      "disposal_method": "E-waste center or authorized recycler.",
+      "category": "e-waste"
+    },
+    {
+      "label": "clothes (cotton)",
+      "description": "Wearable cotton fabric, biodegradable and recyclable.",
+      "material": "Cotton",
+      "recyclable": true,
+      "disposal_method": "Donate or recycle at textile drop-off.",
+      "category": "textile"
+    },
+    {
+      "label": "clothes (polyester)",
+      "description": "Synthetic fabric used in garments.",
+      "material": "Polyester",
+      "recyclable": true,
+      "disposal_method": "Recycle with textile recyclers.",
+      "category": "textile"
+    },
+    {
+      "label": "toothbrush (plastic)",
+      "description": "Personal hygiene item with plastic body and nylon bristles.",
+      "material": "Plastic + nylon",
+      "recyclable": false,
+      "disposal_method": "Dispose in trash or send to special recycler.",
+      "category": "plastic"
+    },
+    {
+      "label": "broken mirror",
+      "description": "Reflective glass item with safety coating or paint.",
+      "material": "Glass",
+      "recyclable": false,
+      "disposal_method": "Wrap in newspaper and dispose in trash.",
+      "category": "glass"
+    },
+    {
+      "label": "ceramic mug",
+      "description": "Drinkware made from non-recyclable ceramic material.",
+      "material": "Ceramic",
+      "recyclable": false,
+      "disposal_method": "Dispose in trash.",
+      "category": "ceramic"
+    },
+    {
+      "label": "food waste",
+      "description": "Organic kitchen scraps like fruit peels and leftovers.",
+      "material": "Organic",
+      "recyclable": false,
+      "disposal_method": "Compost or dispose in organic waste bin.",
+      "category": "organic"
+    },
+    {
+      "label": "garden waste",
+      "description": "Yard trimmings like grass, leaves, and small branches.",
+      "material": "Organic",
+      "recyclable": true,
+      "disposal_method": "Compost or put in green waste bin.",
+      "category": "organic"
+    },
+    {
+      "label": "disposable diaper",
+      "description": "Single-use item made of absorbent materials and plastic.",
+      "material": "Plastic + cellulose",
+      "recyclable": false,
+      "disposal_method": "Dispose in trash.",
+      "category": "hygiene"
+    }
+  ]
+  
