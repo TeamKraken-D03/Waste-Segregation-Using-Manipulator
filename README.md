@@ -9,9 +9,9 @@ This project automates the waste segregation process using a **uFactory Lite 6**
 | Name              | Roll Number |
 |-------------------|-------------|
 | *Renny Harlin D*       | *CB.SC.U4AIE23334* |
-|                   |             |
-|                   |             |
-|                   |             |
+| *Naren Sundar L*       | *CB.SC.U4AIE23322* |
+| *Vatturu Pardheev*     | *CB.SC.U4AIE23344  |
+| *Charuvarthan T        | *CB.SC.U4AIE23359  |
 
 ---
 
