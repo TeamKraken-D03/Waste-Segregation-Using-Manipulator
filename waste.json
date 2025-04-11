@@ -1,0 +1,56 @@
+[
+    {
+        "box_2d": [
+            436,
+            392,
+            490,
+            506
+        ],
+        "label": "banana peel"
+    },
+    {
+        "box_2d": [
+            342,
+            547,
+            408,
+            678
+        ],
+        "label": "coconut shell"
+    },
+    {
+        "box_2d": [
+            281,
+            321,
+            351,
+            452
+        ],
+        "label": "metal glass"
+    },
+    {
+        "box_2d": [
+            553,
+            264,
+            610,
+            370
+        ],
+        "label": "plastic bottle"
+    },
+    {
+        "box_2d": [
+            590,
+            607,
+            656,
+            741
+        ],
+        "label": "coconut shell"
+    },
+    {
+        "box_2d": [
+            473,
+            749,
+            534,
+            899
+        ],
+        "label": "thermo bottle"
+    }
+]
