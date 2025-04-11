@@ -1,5 +1,7 @@
 [
-  {"box_2d": [127, 570, 197, 618], "label": "blue"},
-  {"box_2d": [260, 573, 332, 625], "label": "green"},
-  {"box_2d": [172, 502, 252, 557], "label": "green"}
+  {"box_2d": [243, 510, 297, 546], "label": "yellow cube"},
+  {"box_2d": [320, 242, 372, 282], "label": "blue cube"},
+  {"box_2d": [354, 459, 404, 494], "label": "blue cube"},
+  {"box_2d": [360, 567, 410, 602], "label": "yellow cube"},
+  {"box_2d": [197, 243, 250, 284], "label": "yellow cube"}
 ]
